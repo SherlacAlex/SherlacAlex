@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SherlacAlex
-- 👀 I’m interested in Football, Games and a little coding to survive
-- 🌱 I’m currently learning Computer Applications
+- 🌱 Software Developer @SOTI
+- 👀 Football, Games and a little coding to survive
 
 <!---
 SherlacAlex/SherlacAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
